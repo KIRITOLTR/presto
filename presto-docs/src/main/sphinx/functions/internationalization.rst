@@ -2,7 +2,7 @@
 Internationalization Functions
 ==============================
 
-Myanmar Functions
+Myanmar Functions++
 -----------------
 
 .. note::
